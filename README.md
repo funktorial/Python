@@ -1,3 +1,3 @@
 # Python
 
-Just example scripts from Invent with Python.
+Just trying learn some basics of Python.
