@@ -1,5 +1,5 @@
 #! python3
-# renameDates.py - Renames Seinfeld filenames
+# seinfeldRename.py - Renames Seinfeld filenames
 
 import shutil, os, re
 
